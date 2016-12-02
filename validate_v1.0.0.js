@@ -50,7 +50,7 @@
                 }
             };
         };
-        //失去焦点验证
+        //失去焦点验证 TODO
         validate.validateBlur = function(select){};
 
         //提交验证
@@ -139,7 +139,7 @@
             }
         };
 
-        //关闭信息提示框
+        //关闭信息提示框 TODO
         validate.close = function(id){};
 
     }
